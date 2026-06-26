@@ -1,0 +1,6 @@
+{
+    "parent": "ceevyte:item/backrooms/flashlight",
+    "textures": {
+        "texture": "ceevyte:item/backrooms/flashlight/powered"
+    }
+}

@@ -1,0 +1,246 @@
+{
+  "pack": {
+    "description": [
+      {
+        "translate": "%1$s\n%2$s",
+        "with": [
+          {
+            "fallback": "%2$s",
+            "translate": "ceevyte.etb.pack_translation_key",
+            "with": [
+              [
+                {
+                  "color": "#FFBA42",
+                  "text": "E"
+                },
+                {
+                  "color": "#FDB33C",
+                  "text": "s"
+                },
+                {
+                  "color": "#FBAC35",
+                  "text": "c"
+                },
+                {
+                  "color": "#F9A52F",
+                  "text": "a"
+                },
+                {
+                  "color": "#F79E29",
+                  "text": "p"
+                },
+                {
+                  "color": "#F59722",
+                  "text": "e "
+                },
+                {
+                  "color": "#F3901C",
+                  "text": "T"
+                },
+                {
+                  "color": "#F18916",
+                  "text": "h"
+                },
+                {
+                  "color": "#EF820F",
+                  "text": "e "
+                },
+                {
+                  "color": "#ED7B09",
+                  "text": "B"
+                },
+                {
+                  "color": "#EA7A0D",
+                  "text": "a"
+                },
+                {
+                  "color": "#E87912",
+                  "text": "c"
+                },
+                {
+                  "color": "#E57816",
+                  "text": "k"
+                },
+                {
+                  "color": "#E3771B",
+                  "text": "r"
+                },
+                {
+                  "color": "#E0771F",
+                  "text": "o"
+                },
+                {
+                  "color": "#DE7624",
+                  "text": "o"
+                },
+                {
+                  "color": "#DB7528",
+                  "text": "m"
+                },
+                {
+                  "color": "#D67331",
+                  "text": "s"
+                }
+              ],
+              [
+                {
+                  "color": "#CEBA94",
+                  "text": "E"
+                },
+                {
+                  "color": "#C9B692",
+                  "text": "s"
+                },
+                {
+                  "color": "#C4B28F",
+                  "text": "c"
+                },
+                {
+                  "color": "#BFAE8D",
+                  "text": "a"
+                },
+                {
+                  "color": "#BAAA8B",
+                  "text": "p"
+                },
+                {
+                  "color": "#B5A689",
+                  "text": "e "
+                },
+                {
+                  "color": "#B0A286",
+                  "text": "T"
+                },
+                {
+                  "color": "#AB9E84",
+                  "text": "h"
+                },
+                {
+                  "color": "#A69A82",
+                  "text": "e "
+                },
+                {
+                  "color": "#A29680",
+                  "text": "B"
+                },
+                {
+                  "color": "#9D917D",
+                  "text": "a"
+                },
+                {
+                  "color": "#988D7B",
+                  "text": "c"
+                },
+                {
+                  "color": "#938979",
+                  "text": "k"
+                },
+                {
+                  "color": "#8E8576",
+                  "text": "r"
+                },
+                {
+                  "color": "#898174",
+                  "text": "o"
+                },
+                {
+                  "color": "#847D72",
+                  "text": "o"
+                },
+                {
+                  "color": "#7F7970",
+                  "text": "m"
+                },
+                {
+                  "color": "#75716B",
+                  "text": "s"
+                }
+              ]
+            ]
+          },
+          [
+            {
+              "color": "#6FA88E",
+              "text": "@"
+            },
+            {
+              "color": "#74AD92",
+              "text": "c"
+            },
+            {
+              "color": "#7AB296",
+              "text": "e"
+            },
+            {
+              "color": "#7FB79A",
+              "text": "e"
+            },
+            {
+              "color": "#85BC9E",
+              "text": "v"
+            },
+            {
+              "color": "#8AC2A3",
+              "text": "y"
+            },
+            {
+              "color": "#90C7A7",
+              "text": "t"
+            },
+            {
+              "color": "#95CCAB",
+              "text": "e     "
+            },
+            {
+              "color": "#9BD1AF",
+              "text": "@"
+            },
+            {
+              "color": "#A0D6B3",
+              "text": "k"
+            },
+            {
+              "color": "#92CFAD",
+              "text": "i"
+            },
+            {
+              "color": "#84C8A7",
+              "text": "r"
+            },
+            {
+              "color": "#77C2A1",
+              "text": "i"
+            },
+            {
+              "color": "#69BB9B",
+              "text": "t"
+            },
+            {
+              "color": "#5BB495",
+              "text": "o"
+            },
+            {
+              "color": "#4DAD8F",
+              "text": "_"
+            },
+            {
+              "color": "#40A789",
+              "text": "b"
+            },
+            {
+              "color": "#24997D",
+              "text": "t"
+            }
+          ]
+        ]
+      }
+    ],
+    "pack_format": 69,
+    "min_format": 69,
+    "max_format": 84,
+    "supported_formats": [
+      69,
+      84
+    ]
+  }
+}

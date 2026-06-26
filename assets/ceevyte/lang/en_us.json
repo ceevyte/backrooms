@@ -1,0 +1,27 @@
+{
+    "text.ceevyte.backrooms.item_rarity": "Rarity: %1$s",
+    "text.ceevyte.backrooms.item_rarity.none": "Unique Item",
+    "text.ceevyte.backrooms.item_rarity.common": "Common",
+    "text.ceevyte.backrooms.item_rarity.uncommon": "Uncommon",
+    "text.ceevyte.backrooms.item_rarity.rare": "Rare",
+
+    "item.ceevyte.backrooms.placeholder": "not_lupus.png",
+    "item.ceevyte.backrooms.placeholder.description": "It's not lupus!",
+
+    "item.ceevyte.backrooms.flashlight": "Flashlight",
+    "item.ceevyte.backrooms.flashlight.description": "Lights up Dark Areas",
+
+    "item.ceevyte.backrooms.almond_water": "Almond Water",
+    "item.ceevyte.backrooms.almond_water.description": "Restores your sanity levels",
+
+    "item.ceevyte.backrooms.traffic_cone": "Traffic Cone",
+    "item.ceevyte.backrooms.traffic_cone.description": "It has \"James\" written on the underside",
+
+    "item.ceevyte.backrooms.brawlers_cb": "Brawler's Command Block",
+    "item.ceevyte.backrooms.brawlers_cb.description":  "A long forgotten relic of the past,",
+    "item.ceevyte.backrooms.brawlers_cb.description_": "once rumored to hold great power...",
+
+    "item.ceevyte.backrooms.headphones": "Headphones",
+    "item.ceevyte.backrooms.headphones.description":  "A faint, rhythmic pulse is playing. Whatever is",
+    "item.ceevyte.backrooms.headphones.description_": "on the other side isn't ready to give up just yet."
+}

@@ -1,0 +1,9 @@
+{
+    "backrooms.entity.item.grab": {
+        "sounds": [
+            "ceevyte:backrooms/entity/item/grab/1",
+            "ceevyte:backrooms/entity/item/grab/2",
+            "ceevyte:backrooms/entity/item/grab/3"
+        ]
+    }
+}
